@@ -1,9 +1,13 @@
 {
-  "name": "@johnhooks/Dollar",
+  "name": "@johnhooks/dollar",
   "version": "0.1.0",
   "main": "dist/Dollar.js",
   "author": "John Hooks",
   "license": "MIT",
+  "repository": { 
+    "type" : "git",
+    "url" : "https://github.com/johnhooks/Dollar"
+  },
   "scripts": {
     "build": "tsc"
   },
