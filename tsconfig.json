@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "ES5",
+        "noImplicitAny": true,
+        "preserveConstEnums": true,
+        "strictNullChecks": true,
+        "declaration": true,
+        "removeComments": false,
+        "noUnusedLocals": true,
+        "outDir": "dist/"
+    },
+    "files": [
+        "src/util.ts",
+        "src/Dollar.ts"
+    ]
+}

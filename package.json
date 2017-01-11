@@ -1,0 +1,13 @@
+{
+  "name": "@johnhooks/Dollar",
+  "version": "0.1.0",
+  "main": "dist/Dollar.js",
+  "author": "John Hooks",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^2.1.4"
+  }
+}
